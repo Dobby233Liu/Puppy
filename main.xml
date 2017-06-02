@@ -7,5 +7,9 @@
         android:text="bork"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+      <TextView
+        android:text="(i'm so happy)"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
